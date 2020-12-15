@@ -13,24 +13,24 @@ Le travail est à uploader sur Github la date d'upload faisant acte du dépôt.
 
 ## App 1
 
-![app1](./apps/app1.jpg)
+![app1](/apps/app1.jpg)
 
 ## App 2
 
-![app2](./apps/app2.jpg)
+![app2](/apps/app2.jpg)
 
 ## App 3
 
-![app3](./apps/app3.jpg)
+![app3](/apps/app3.jpg)
 
 ## App 4
 
-![app4](./apps/app4.jpg)
+![app4](/apps/app4.jpg)
 
 ## App 5
 
-![app5](./apps/app5.jpg)
+![app5](/apps/app5.jpg)
 
 ## App 6
 
-![app6](./apps/app6.png)
+![app6](/apps/app6.png)
